@@ -1,27 +1,8 @@
-Some React commands are:
-```
- npm create vite@latest
+# React + Vite
 
-```
- Select thease option:
-```
-√ Project name: ... project-clientside
-√ Select a framework: » React
-√ Select a variant: » JavaScript
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-```
-To install npm packages:
-```
-npm install
-```
-Command to redirect towards browser link:
-npm run dev
-```
+Currently, two official plugins are available:
 
-If you close the Project Use these Commands to reopen it:
-
-```
-npm run 
-cd .\lakeSide-hotel\
-npm run dev
-```
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
