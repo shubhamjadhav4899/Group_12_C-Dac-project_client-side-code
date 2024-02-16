@@ -1,0 +1,156 @@
+export const ChildreMedicine = [
+    {
+        "imageUrl":"https://www.shutterstock.com/shutterstock/photos/717437125/display_1500/stock-photo-pharmacist-holding-medicine-box-and-capsule-pack-in-pharmacy-drugstore-717437125.jpg",
+        "brand":"Aiderm",
+        "title":"Amoxicillin",
+        "discounted Price":"50rs",
+        "Price":"70rs",
+        "topLavelCategory":"Children",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Baby care",
+        "Description":"It may be used to treat bacterial infections such as strep throat, childhood pneumonia, ear infections, and sinus infections."
+    },
+    {
+        "imageUrl":"https://www.shutterstock.com/shutterstock/photos/535876093/display_1500/stock-photo-hand-holding-contraceptive-pack-menopause-hormone-replacement-pill-at-the-pharmacy-drugstore-535876093.jpg",
+        "brand":"Vantej",
+        "title":"Azithromycin",
+        "discounted Price":"30rs",
+        "Price":"50rs",
+        "topLavelCategory":"Children",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Throat-bus",
+        "Description":"Zithromax (azithromycin) is available as a generic antibiotic and may be referred to as a Z-PAK. It is often prescribed for ear infections."
+    },
+    {
+        "imageUrl":"https://www.shutterstock.com/shutterstock/photos/535877074/display_1500/stock-photo-hand-holding-medicine-capsule-pack-at-the-pharmacy-drugstore-535877074.jpg",
+        "brand":"Electral",
+        "title":"Mupirocin",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Children",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Derma care",
+        "Description":"Omnicef (cefdinir) is a type of antibiotic called a cephalosporin that is commonly used to treat skin infections"
+    },
+    {
+        "imageUrl":"https://tse2.mm.bing.net/th?id=OIP.WgXuZYNFfhLQLsXfdMqGYAHaE8&pid=Api&P=0&h=180",
+        "brand":"Cotaryl",
+        "title":"Cefdinir",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Children",
+        "secondLavelCategory":"serup",
+        "thirdLavelCategory":"Fever",
+        "Description":"OThis allows air to flow in and out more easily."
+    },
+    {
+        "imageUrl":"https://i5.walmartimages.com/asr/b8c02258-1e7a-444a-bc1c-2935c2df8f16.78aeda4ac9d73e783b688126039393a9.jpeg",
+        "brand":"Vigore",
+        "title":"Febrex Plus Oral Drops",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Children",
+        "secondLavelCategory":"serup",
+        "thirdLavelCategory":"Cough-Cold",
+        "Description":"Effectively relieves dry cough"
+    },
+    {
+        "imageUrl":"https://www.shutterstock.com/shutterstock/photos/1272282022/display_1500/stock-photo-hand-holding-medicine-pack-at-the-pharmacy-drugstore-1272282022.jpg",
+        "brand":"Vigore",
+        "title":"Cymbalta",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Cholestrol",
+        "Description":"Cymbalta is used to treat major depressive disorder in adults"
+    },
+    {
+        "imageUrl":"https://cdn.tollywood.net/wp-content/uploads/2022/01/Dolo-650-tablets-became-the-second-best-anti-fever-medicine-since-pandemic-1068x801.jpg",
+        "brand":"Dolo",
+        "title":"Dolo",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Headache",
+        "Description":"Cymbalta is used to treat major depressive disorder in adults"
+    },
+    {
+        "imageUrl":"https://www.shutterstock.com/shutterstock/photos/1272282019/display_1500/stock-photo-hand-holding-medicine-pack-with-note-pad-on-shelves-blurred-in-pharmacy-store-background-1272282019.jpg",
+        "brand":"Perlice",
+        "title":"Novolin R FlexPen ReliOn",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Diabetes",
+        "Description":"If you have type 1 diabetes, your body can’t make its own insulin. The goal of treatment is to replace the insulin that your pancreas can’t make."
+    },
+    {
+        "imageUrl":"https://tse3.mm.bing.net/th?id=OIP.8_zgbGVEQLF-1acFuE-lHAHaHZ&pid=Api&P=0&h=180",
+        "brand":"Perlice",
+        "title":"GLAMBERY",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Derma Care",
+        "Description":"Papaya Facewash With Aloe Vera & Vitamin E Enzyme."
+    },
+    {
+        "imageUrl":"https://tse3.mm.bing.net/th?id=OIP.8_zgbGVEQLF-1acFuE-lHAHaHZ&pid=Api&P=0&h=180",
+        "brand":"Perlice",
+        "title":"Iodex",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Pain Relief",
+        "Description":"relieve backache, neck pain, shoulder pain, sprains, joint pain and muscle pain."
+    },
+    {
+        "imageUrl":"https://tse3.mm.bing.net/th?id=OIP.8_zgbGVEQLF-1acFuE-lHAHaHZ&pid=Api&P=0&h=180",
+        "brand":"Perlice",
+        "title":"Metoprolol",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"Tablet",
+        "thirdLavelCategory":"Blood-Presure",
+        "Description":"This medication is a beta-blocker. It comes in an immediate-release"
+    },
+    {
+        "imageUrl":"https://media.istockphoto.com/id/186607295/photo/bottle-pouring-medicine-syrup-in-spoon.jpg?s=2048x2048&w=is&k=20&c=xld2KBHDmA-f-36yuRRcmXwwm95cI67-WYJ0uSdaASY=",
+        "brand":"Perlice",
+        "title":"Metoprolol",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"serup",
+        "thirdLavelCategory":"Throat-bus",
+        "Description":"paracetamol helps to reduce Throat-bus."
+    },
+    {
+        "imageUrl":"https://tse3.mm.bing.net/th?id=OIP.8_zgbGVEQLF-1acFuE-lHAHaHZ&pid=Api&P=0&h=180",
+        "brand":"Perlice",
+        "title":"paracetamol",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"serup",
+        "thirdLavelCategory":"Cough-Cold",
+        "Description":"paracetamol helps to reduce Cough-Cold and to relieve a headache with mild to moderate pain"
+    },
+    {
+        "imageUrl":"https://www.pngkey.com/png/full/58-581688_yacon-syrup-3-bottles-render-1-png-medicine.png",
+        "brand":"Perlice",
+        "title":"Acetaminophen",
+        "discounted Price":"100rs",
+        "Price":"160rs",
+        "topLavelCategory":"Adult",
+        "secondLavelCategory":"serup",
+        "thirdLavelCategory":"Fever",
+        "Description":"Acetaminophen helps to reduce fever and to relieve a headache with mild to moderate pain."
+    },
+]
